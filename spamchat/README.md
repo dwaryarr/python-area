@@ -21,4 +21,4 @@ Libraries:
 
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
 
-#isn't perfection
+#F1
