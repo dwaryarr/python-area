@@ -7,4 +7,4 @@ List of Python projects:
 | 001 | [Spam Chat Bot](spamchat)                                              |   @ 06 March 2023   |
 
 
-#F1
+#F1 - 德瓦亚尔
